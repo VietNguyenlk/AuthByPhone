@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655411804462",
+    "project_id": "testauth-942aa",
+    "storage_bucket": "testauth-942aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655411804462:android:162ec9383ce7de569722bf",
+        "android_client_info": {
+          "package_name": "com.itachi.Test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZszgWpD2p70TGuINyKzzKOrl4_RSQEMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
